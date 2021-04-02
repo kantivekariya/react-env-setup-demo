@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Enviroment Setup using `env-cmd`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## install `env-cmd` using following command.
+
+### npm install env-cmd or npm install -g env-cmd
 
 ## Available Scripts
 
